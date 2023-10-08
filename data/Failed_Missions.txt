@@ -1,0 +1,123 @@
+WIth the mission information that you are given, use your knowedge of these past missions that have FAILED to determine potential failure points of the given mission. 
+
+Challenger Shuttle Disaster (1986)
+Objective: 10th flight of Space Shuttle Challenger.
+Outcome: Failure. Exploded 73 seconds after liftoff.
+Reason for Failure: Faulty O-ring seal in its right solid rocket boosters.
+
+Mars Climate Orbiter (1998)
+Objective: Study the Martian climate.
+Outcome: Failure. Burned up in the Martian atmosphere.
+Reason for Failure: A metric-imperial unit mismatch in software commands.
+
+Columbia Shuttle Disaster (2003)
+Objective: 28th flight of Space Shuttle Columbia.
+Outcome: Failure. Disintegrated upon re-entry.
+Reason for Failure: Damage to thermal protection system caused by foam debris during launch.
+
+Beagle 2 (2003) - European Space Agency (ESA) but relevant to mention
+Objective: Search for life on Mars.
+Outcome: Failure. Lost upon landing.
+Reason for Failure: It's believed that one of the solar panels failed to deploy, blocking the communications antenna.
+
+Orion 3 (1995)
+Objective: Communication satellite launch.
+Outcome: Failure. Did not reach intended orbit.
+Reason for Failure: The third stage of the rocket failed to ignite
+
+Mariner 1 (1962)
+Objective: Venus flyby.
+Outcome: Failure. Destroyed 293 seconds after launch.
+Reason for Failure: Guidance system malfunction due to a coding error.
+
+Mars Polar Lander (1999)
+Objective: Study Martian weather at the south pole.
+Outcome: Failure. Lost during descent to Mars.
+Reason for Failure: Likely a premature engine shutdown, causing a hard landing.
+
+Deep Space 2 (1999)
+Objective: Demonstrate new landing technology on Mars.
+Outcome: Failure. Lost upon reaching Mars.
+Reason for Failure: Unknown, though it's speculated the probes may have been destroyed upon impact.
+
+Genesis (2001)
+Objective: Collect samples of solar wind.
+Outcome: Crash-landed upon return to Earth.
+Reason for Failure: The parachute did not deploy due to a design flaw in G-switch sensors.
+
+Phobos-Grunt (2011) - Russian mission but worth mentioning due to its importance
+Objective: Return samples from Mars’ moon Phobos.
+Outcome: Failure. Did not leave Earth's orbit to begin its journey to Mars.
+Reason for Failure: Problems with the onboard computer system and propulsion module.
+
+Mars Observer (1992)
+Objective: Study Mars' surface, atmosphere, and climate.
+Outcome: Failure. Lost contact three days before Mars orbit insertion.
+Reason for Failure: Probable fuel tank rupture.
+
+TESS (in its original mission design) (2018)
+Objective: Search for exoplanets using a wide-field telescope.
+Outcome: Technical malfunction. The satellite faced a critical issue with its cameras.
+Reason for Failure: A thermal issue affected the quality of images, but NASA was able to reconfigure and continue the mission, proving its adaptability.
+
+CONTOUR (Comet Nucleus Tour) (2002)
+Objective: Study two comets closely.
+Outcome: Failure. Lost after a rocket burn intended to send it out of Earth's orbit.
+Reason for Failure: Suspected structural failure during rocket burn.
+
+Nimbus B1 (1968)
+Objective: Earth observation for meteorological research.
+Outcome: Failure. Did not reach the intended orbit.
+Reason for Failure: Malfunction during the launch sequence.
+
+ADEOS I (Advanced Earth Observing Satellite) (1996) - A collaboration involving NASA
+Objective: Earth observation to study the environment.
+Outcome: Failure. Lost contact less than a year after launch.
+Reason for Failure: Solar panel failure.
+
+Mars 96 (1996) - Russian space mission with international contributions
+Objective: Study Mars from orbit and the surface.
+Outcome: Failure. Crashed in the South Pacific shortly after launch.
+Reason for Failure: Fourth stage rocket malfunction.
+
+Kosmos 482 (1972) - Soviet Venus mission
+Objective: Study Venus.
+Outcome: Failure. Stuck in Earth's orbit and eventually re-entered the atmosphere.
+Reason for Failure: Launch vehicle failure.
+
+Nozomi (Planet-B) (1998) - Japanese Mars mission
+Objective: Study the Martian atmosphere and its interaction with the solar wind.
+Outcome: Failure. Did not achieve Mars orbit.
+Reason for Failure: Electrical failures and fuel leaks after a solar flare damaged onboard systems.
+
+ASTRO-E (2000) - Japanese X-ray satellite
+Objective: Observe X-rays from high-energy astronomical phenomena.
+Outcome: Failure. Did not reach orbit.
+Reason for Failure: Launch vehicle malfunction.
+
+Observer (1986)
+Objective: Earth observation for various scientific purposes.
+Outcome: Failure. Launch failure led to the destruction of the satellite.
+Reason for Failure: Malfunction in the Titan rocket's second stage.
+
+Outcome: Tragedy. A cabin fire during a launch rehearsal killed all three astronauts.
+Reason for Failure: Electrical fault in a high-oxygen environment, design flaws in the hatch mechanism.
+Beagle 2 (2003) - British landing spacecraft, part of ESA's Mars Express mission
+Objective: Study the atmosphere, climate, and geology of Mars.
+Outcome: Failure. It did land on Mars but failed to fully deploy and communicate.
+Reason for Failure: Likely a solar panel deployment failure.
+
+Fobos 1 (1988) - Soviet mission
+Objective: Study Mars' moon Phobos.
+Outcome: Failure. Lost contact en route to Mars.
+Reason for Failure: A command error, which turned the spacecraft's antennas away from Earth, leading to a loss of communication.
+
+Challenger STS-51-L (1986)
+Objective: Deploy satellites, conduct spacewalks, and carry out various experiments.
+Outcome: Tragedy. The Space Shuttle Challenger broke apart 73 seconds into its flight, leading to the deaths of seven astronauts.
+Reason for Failure: O-ring failure in the right solid rocket booster, causing structural failure.
+
+Gloria (2011) - Spanish Earth observation satellite
+Objective: Monitor land and coastal areas.
+Outcome: Failure. Did not reach the intended orbit.
+Reason for Failure: Launch vehicle anomaly.

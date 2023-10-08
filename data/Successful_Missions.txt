@@ -1,0 +1,130 @@
+WIth the mission information that you are given, use your knowedge of these past missions that have SUCCEEDED to determine potential success points of the given mission. 
+
+Apollo 11 (1969)
+Objective: First manned mission to land on the Moon.
+Outcome: Success. Neil Armstrong and Buzz Aldrin walked on the Moon.
+Key to Success: Extensive testing, experienced crew, and robust mission planning.
+
+Voyager 1 (1977)
+Objective: Study the outer Solar System and interstellar space beyond.
+Outcome: Success. It's currently in interstellar space, still sending data.
+Key to Success: Durable design, efficient trajectory, and solid ground support.
+
+Hubble Space Telescope (1990)
+Objective: Observe distant stars, galaxies, and phenomena.
+Outcome: Success. Provided a multitude of invaluable data and images.
+Key to Success: Periodic maintenance by space shuttle crews, adaptive software, and orbital longevity.
+
+Curiosity Rover (2012)
+Objective: Explore and study Mars' Gale Crater.
+Outcome: Success. Found evidence of ancient water flows and organic molecules.
+Key to Success: Advanced instrument suite, adaptive AI, and durable mobility system.
+
+OSIRIS-REx (2016)
+Objective: Collect samples from the asteroid Bennu and return them to Earth.
+Outcome: Success. Successful sample collection and return trajectory initiated.
+Key to Success: Advanced autonomous operations, detailed surface mapping, and sample collection mechanism.
+
+Mars Pathfinder & Sojourner Rover (1997)
+Objective: Demonstrate a new landing technology and explore Mars.
+Outcome: Success. Sent back thousands of images and conducted several experiments.
+Key to Success: Innovative airbag landing system and effective rover design.
+
+Cassini-Huygens (1997)
+Objective: Study Saturn and its moon Titan.
+Outcome: Success. Gave detailed data on Saturn, its rings, and Titan.
+Key to Success: Collaboration between NASA, ESA, and the Italian space agency; durable design and comprehensive instrument suite.
+
+Stardust (1999)
+Objective: Collect samples from the comet Wild 2.
+Outcome: Success. Returned samples to Earth in 2006.
+Key to Success: Robust comet dust capture technology using aerogel.
+
+Kepler Space Telescope (2009)
+Objective: Discover Earth-like planets orbiting other stars.
+Outcome: Success. Discovered over 2,600 exoplanets.
+Key to Success: Sensitive photometer, stable orbit, and rigorous data analysis.
+
+New Horizons (2006)
+Objective: Flyby study of Pluto and the Kuiper Belt.
+Outcome: Success. Sent detailed data on Pluto and continued on to the Kuiper Belt object Arrokoth.
+Key to Success: Fastest spacecraft ever launched, rigorous pre-flight testing, and adaptive mission planning.
+
+Pioneer 10 (1972)
+Objective: First mission to the outer planets, intended to travel through the asteroid belt and study Jupiter.
+Outcome: Success. Sent the first close-up images of Jupiter and became the first spacecraft to travel beyond our Solar System.
+Key to Success: Robust design able to handle Jupiter's radiation and pioneering use of a gravitational slingshot trajectory.
+Opportunity Rover (2004)
+Objective: Search for signs of past water on Mars.
+Outcome: Success. Operated for nearly 15 years and provided evidence of past water activity.
+Key to Success: Solar panel design for longevity, advanced mobility, and responsive ground control.
+
+Opportunity Rover (2004)
+Objective: Search for signs of past water on Mars.
+Outcome: Success. Operated for nearly 15 years and provided evidence of past water activity.
+Key to Success: Solar panel design for longevity, advanced mobility, and responsive ground control.
+
+Juno (2011)
+Objective: Study Jupiter's atmosphere, magnetosphere, and interior.
+Outcome: Success. Revealed unexpected findings about the planet's core, atmospheric dynamics, and magnetic fields.
+Key to Success: Solar-powered design and protective armor against radiation.
+
+MESSENGER (2004)
+Objective: Study Mercury's chemical composition, geology, and magnetic field.
+Outcome: Success. Mapped Mercury comprehensively and discovered water ice at its poles.
+Key to Success: Heat-resistant technologies and effective use of gravity assists for trajectory.
+
+Dawn (2007)
+Objective: Visit and study the two largest objects in the asteroid belt: Vesta and Ceres.
+Outcome: Success. Discovered evidence of subsurface oceans on Ceres.
+Key to Success: Ion propulsion system and versatile instrument suite.
+
+Galileo (1989)
+Objective: Study Jupiter and its moons.
+Outcome: Success. Discovered evidence of subsurface oceans on Europa.
+Key to Success: Sturdy spacecraft design, gravity assists for trajectory, and prolonged mission planning.
+
+Mars Odyssey (2001)
+Objective: Map the Martian surface and search for evidence of water.
+Outcome: Success. Found vast deposits of water ice and served as a relay for other Mars missions.
+Key to Success: Innovative thermal emission imaging system and stable orbit insertion.
+
+SOHO (Solar and Heliospheric Observatory) (1995)
+Objective: Study the Sun, from its deep core to the outer corona and solar wind.
+Outcome: Success. Provided data on solar activity, which has implications for space weather.
+Key to Success: Collaboration between the European Space Agency (ESA) and NASA, state-of-the-art instrumentation.
+
+Viking 1 & 2 (1975)
+Objective: Conduct high-resolution imaging of Mars and search for signs of life.
+Outcome: Success. Sent back the first high-resolution images of Mars and conducted biology experiments.
+Key to Success: Dual-mission approach (orbiter and lander) and rigorous pre-launch testing.
+
+Spitzer Space Telescope (2003)
+Objective: Study the universe in infrared.
+Outcome: Success. Observed previously unseen details of known cosmic objects and found distant galaxies.
+Key to Success: Advanced infrared detectors and cryogenic cooling system.
+
+Voyager 1 & 2 (1977)
+Objective: Conduct a grand tour of the outer planets and enter interstellar space.
+Outcome: Success. Voyager 1 is currently in interstellar space, while Voyager 2 has passed the heliosphere. Both sent invaluable data on outer planets.
+Key to Success: Advanced instrumentation for the time, extended mission lifespan, and ability to adapt to new scientific objectives.
+
+Chandra X-ray Observatory (1999)
+Objective: Observe X-rays from high-energy regions of the universe.
+Outcome: Success. Offered a unique view of the universe and has observed phenomena that were previously invisible.
+Key to Success: Highly elliptical orbit, exceptional pointing accuracy, and advanced X-ray detecting technology.
+Rosetta & Philae (2004) – ESA's mission with contributions from NASA
+
+Objective: Study comet 67P/Churyumov–Gerasimenko and land on it.
+Outcome: Success. First mission to orbit and land on a comet, providing a wealth of data on its composition.
+Key to Success: Innovative design, a decade-long commitment, and complex gravity assists.
+
+GRAIL (Gravity Recovery and Interior Laboratory) (2011)
+Objective: Map the Moon's gravitational field.
+Outcome: Success. Produced a high-resolution map, revealing insights about the Moon's internal structure.
+Key to Success: Twin spacecraft design for precise measurements and low-altitude orbital insertion.
+
+OSIRIS-REx (2016)
+Objective: Sample collection from asteroid Bennu and return to Earth.
+Outcome: Success. Successfully collected samples, with return to Earth expected in 2023.
+Key to Success: Advanced instrumentation for mapping, sampling mechanism, and thorough pre-mission analysis.

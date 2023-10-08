@@ -1,0 +1,105 @@
+Common mission objectives (based on past space missions):
+- Study Mercury's chemical composition
+- Visit and study the two largest objects in the asteroid belt: Vesta and Ceres.
+- Search for exoplanets in orbit around the brightest dwarf stars in the sky.
+- First mission to the outer planets
+- Observe distant stars
+- Study Jupiter and its moons.
+- Search for signs of past water on Mars.
+- Collect samples from the comet Wild 2.
+- Explore and study Mars' Gale Crater.
+- Demonstrate a new landing technology and explore Mars.
+- Conduct a grand tour of the outer planets and enter interstellar space.
+- Map the Moon's gravitational field.
+- Study the outer Solar System and interstellar space beyond.
+- Study the outer corona of the Sun.
+- Study Jupiter's atmosphere
+- First manned mission to land on the Moon.
+- Study Saturn and its moon Titan.
+- Study the universe in infrared.
+- Conduct high-resolution imaging of Mars and search for signs of life.
+- Study the Sun
+- Search for signs of ancient life and collect samples of rock and regolith (broken rock and soil) for a possible return to Earth.
+- Study comet 67P/Churyumov–Gerasimenko and land on it.
+- Flyby study of Pluto and the Kuiper Belt.
+- Discover Earth-like planets orbiting other stars.
+- Map the Martian surface and search for evidence of water.
+- Collect samples from the asteroid Bennu and return them to Earth.
+- Study the deep interior of Mars.
+- Ion propulsion system and versatile instrument suite.
+- Innovative thermal emission imaging system and stable orbit insertion.
+- Success. Provided data on solar activity
+- Dual-mission approach (orbiter and lander) and rigorous pre-launch testing.
+-  providing a wealth of data on its composition.
+-  and phenomena.
+-  still sending data.
+- Advanced autonomous operations
+- Success. Sent the first close-up images of Jupiter and became the first spacecraft to travel beyond our Solar System.
+-  including the deployment of the Ingenuity helicopter.
+- Robust comet dust capture technology using aerogel.
+- Highly efficient cameras
+- Solar panel design for longevity
+-  while Voyager has passed the heliosphere. Both sent invaluable data on outer planets.
+- Fastest spacecraft ever launched
+-  and magnetic field.
+-  its rings
+-  revealing insights about the Moon's internal structure.
+-  and interior.
+- Sturdy spacecraft design
+-  providing detailed data on solar wind and magnetic fields.
+- Innovative airbag landing system and effective rover design.
+- Extensive testing
+- 600 exoplanets.
+- Advanced seismometer
+- Advanced instrument suite
+- Advanced infrared detectors and cryogenic cooling system.
+
+Things to Avoid or Handle with Care (based on unsuccessful missions):
+- Study Martian weather at the south pole.
+- Study Mars' moon Phobos.
+- 28th flight of Space Shuttle Columbia.
+- Study Mars from orbit and the surface.
+- Search for exoplanets using a wide-field telescope.
+- Earth observation for various scientific purposes.
+- Demonstrate new landing technology on Mars.
+- Earth observation for meteorological research.
+- Study the atmosphere
+- Study Mars' surface
+- Venus flyby.
+- Observe X-rays from high-energy astronomical phenomena.
+- Return samples from Mars’ moon Phobos.
+- Study Venus.
+- Study the Martian atmosphere and its interaction with the solar wind.
+- Search for life on Mars.
+- Study the Martian climate.
+- Communication satellite launch.
+- Monitor land and coastal areas.
+- Earth observation to study the environment.
+- Study two comets closely.
+- 10th flight of Space Shuttle Challenger.
+- Collect samples of solar wind.
+- Deploy satellites
+- Electrical failures and fuel leaks after a solar flare damaged onboard systems.
+-  and geology of Mars.
+- Damage to thermal protection system caused by foam debris during launch.
+- Launch vehicle malfunction.
+- Unknown
+-  and carry out various experiments.
+- Launch vehicle anomaly.
+- Likely a premature engine shutdown
+- A metric-imperial unit mismatch in software commands.
+- Malfunction in the Titan rocket's second stage.
+- Fourth stage rocket malfunction.
+- One of the solar panels failed to deploy
+- Solar panel failure.
+- Launch vehicle failure.
+- Parachute did not deploy due to a design flaw in G-switch sensors.
+- Malfunction during the launch sequence.
+- Guidance system malfunction due to a coding error.
+- Faulty O-ring seal in its right solid rocket boosters.
+-  and climate.
+- Command error turned the spacecraft's antennas away from Earth
+- Problems with the onboard computer system and propulsion module.
+- Suspected structural failure during rocket burn.
+- Thermal issue affected the quality of images.
+- The third stage of the rocket failed to ignite.
