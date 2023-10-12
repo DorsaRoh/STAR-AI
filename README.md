@@ -1,4 +1,4 @@
-(https://docs.google.com/presentation/d/11txNfT8DS9v0zBsQ6qoua9-BaAquALhURHtiCf9rZDo/edit?usp=sharing)[See demo here]
+[See demo here](https://docs.google.com/presentation/d/11txNfT8DS9v0zBsQ6qoua9-BaAquALhURHtiCf9rZDo/edit?usp=sharing)
 
 # High-level project summary:
 
