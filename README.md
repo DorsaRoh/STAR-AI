@@ -1,7 +1,7 @@
 # STAR-AI
 
-## [See demo here](https://docs.google.com/presentation/d/11txNfT8DS9v0zBsQ6qoua9-BaAquALhURHtiCf9rZDo/edit?usp=sharing)
-## [On NASA Website](https://docs.google.com/presentation/d/11txNfT8DS9v0zBsQ6qoua9-BaAquALhURHtiCf9rZDo/edit#slide=id.g16613e584ee_0_0)
+### [See demo here](https://docs.google.com/presentation/d/11txNfT8DS9v0zBsQ6qoua9-BaAquALhURHtiCf9rZDo/edit?usp=sharing)
+### [On NASA Website](https://docs.google.com/presentation/d/11txNfT8DS9v0zBsQ6qoua9-BaAquALhURHtiCf9rZDo/edit#slide=id.g16613e584ee_0_0)
 
  An LLM + ML tool that both detects potential and technical failures in space missions, and also assists in designing them.
  
