@@ -5,7 +5,7 @@
  An LLM + ML tool that both detects potential and technical failures in space missions, and also assists in designing them.
  
 
-# High-level project summary:
+## High-level project summary:
 
 STAR is a precision-engineered AI tool intricately tailored for comprehensive space mission validation. Employing a logistic regression model fine-tuned to a 97% accuracy, it analyzes over 50 space missions, capturing their success metrics, design nuances, and outcomes. This data primes and trains STAR's language learning model to identify technical discrepancies, requirement inconsistencies, and points of failure for potential missions. As a result, STAR delivers targeted feedback and actionable changes, equipping mission planners with insightful feedback and optimized guidelines, all derived from empirical mission data, ensuring enhanced reliability and success probability for upcoming space ventures.
 
@@ -17,4 +17,3 @@ https://data.nasa.gov/dataset/Space-Shuttle-Main-Propulsion-System-Anomaly-Detec
 https://mars.nasa.gov/ <br>
 https://nssdc.gsfc.nasa.gov/nmc/ <br>
 https://nssdc.gsfc.nasa.gov/nmc/SpacecraftQuery.jsp <br>
-
